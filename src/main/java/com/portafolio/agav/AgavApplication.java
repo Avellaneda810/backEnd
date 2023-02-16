@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AngavApplication {
+public class AgavApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AngavApplication.class, args);
+		SpringApplication.run(AgavApplication.class, args);
 	}
 
 }
